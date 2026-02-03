@@ -35,3 +35,17 @@ x_train , x_test , y_train , y_test = train_test_split(x,y,train_size= 0.7 , tes
 from sklearn.neighbors import KNeighborsClassifier
 model = KNeighborsClassifier(n_neighbors=3)
 ```
+
+<b><p>⭐ If you found this repository useful, consider giving it a star!</p>
+<p>Happy Coding 🐍✨</p></b>
+
+👤 Github  : [@droliasakshi12](https://github.com/droliasakshi12)<br>
+📩 Email   : sakshidrolia12@gmail.com <br>
+🔗 Linkdin : https://www.linkedin.com/in/sakshi-drolia12<br>
+<h4>Credits</h4>
+<b></b>Future Vision Computer Institute</b><BR>
+🌐 Website : https://futurevisioncomputers.com/
+<br>
+<b><h5>Author</h5></b>
+<b>Sakshi Drolia</b>
+
